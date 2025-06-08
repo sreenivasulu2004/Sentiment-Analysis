@@ -70,7 +70,6 @@ Make sure you have Python 3.8+ installed on your system.
     ├── 📓 Notebooks/ # Jupyter notebooks for exploration 
     │ └── test.ipynb 
     ├── 📋 requirements.txt # Python dependencies 
-    ├── README.md # Readme File
     └── ⚙️ pyproject.toml # Project configuration
 
 ---
