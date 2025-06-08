@@ -3,7 +3,6 @@
 > A powerful sentiment analysis application that understands emotions in text using machine learning
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![Flask](https://img.shields.io/badge/Flask-Web%20Framework-green.svg)](https://flask.palletsprojects.com)
 [![Machine Learning](https://img.shields.io/badge/ML-Sentiment%20Analysis-orange.svg)](https://scikit-learn.org)
 
 ---
